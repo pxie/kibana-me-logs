@@ -3,3 +3,7 @@ applications:
 - name: kibana
   memory: 128M
   instances: 1
+  random-route: true
+  buildpack: https://github.com/heroku/heroku-buildpack-go.git
+  services:
+  - mylog
