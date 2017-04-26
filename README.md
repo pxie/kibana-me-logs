@@ -1,3 +1,5 @@
+*make the slight change to adapt to Predix platform*
+
 Kibana Me Logs
 ==============
 
