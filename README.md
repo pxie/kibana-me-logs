@@ -1,4 +1,4 @@
-*make the slight change to adapt to Predix platform*
+*make the slight change to adapt to Predix platform, and assume `mylog` service instance has existed. If not, create logstash service instance before push this app*
 
 Kibana Me Logs
 ==============
